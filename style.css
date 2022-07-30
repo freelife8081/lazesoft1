@@ -1,0 +1,40 @@
+body{
+    background-color: #1a1313cb;
+}
+.yt {
+    color: white;
+    background-color: red;
+    padding: 13px 12px;
+    margin: 22px;
+    text-decoration: wavy;
+}
+.for {
+    color: white;
+    background-color: purple;
+    padding: 9px 9px;
+    margin: 22px;
+}
+.ex, footer {
+      background-color: bisque;
+      padding: 13px 12px;
+      margin: 18px;
+}
+.io {
+    background-color: white;
+    font-stretch: expanded;
+    padding: 18px 50px;
+    margin: 70px;
+}
+.down{
+  background: blue;
+  color: #fff;
+  padding: 13px 52px;
+  font-size: 18px;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 2px;
+  font-weight: 500;
+  text-align: center;
+  width: 100%;
+  margin: 70px;
+}
